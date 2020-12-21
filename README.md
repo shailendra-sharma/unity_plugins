@@ -10,5 +10,5 @@
 # 2. SaveData Plugin
 Use AES encryption and zLib compression to store data  
 
-> **Note**: Android Demo apk is included in this repo while iOS app is not included because Signin Certificate is not available for distribution
+**Note**: Android Demo apk is included in this repo while iOS app is not included because Signin Certificate is not available for distribution
 We need to add Security.framework to create iOS Demo App from the Unty Project
